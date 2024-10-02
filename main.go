@@ -1,7 +1,7 @@
 package main
 
 import (
-	aksclusterv1 "buf.build/gen/go/plantoncloud/project-planton/protocolbuffers/go/project/planton/apis/provider/azure/akscluster/v1"
+	aksclusterv1 "buf.build/gen/go/plantoncloud/project-planton/protocolbuffers/go/project/planton/provider/azure/akscluster/v1"
 	"github.com/pkg/errors"
 	"github.com/plantoncloud/aks-cluster-pulumi-module/pkg"
 	"github.com/plantoncloud/pulumi-module-golang-commons/pkg/stackinput"
